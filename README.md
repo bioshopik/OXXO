@@ -1,1 +1,1 @@
-# OXXO - Responsive Landing Page
+# OXXO - Responsive LP
