@@ -1,1 +1,1 @@
-# OXXO - Responsive LP
+# OXXO - responsive LP
